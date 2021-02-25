@@ -1,0 +1,123 @@
+.head{
+    width: 100%;
+    height: 50px;
+    background-color: maroon;
+    opacity: 0.95;
+    margin-top: -16px;
+    padding-right: 16px;
+    margin-left: -8px;
+}
+.headul :hover{
+    background-color: gainsboro;
+}
+.headul{
+    padding-top: 15px;
+    margin-left: 1150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headli{
+    display: inline;
+    padding-right: 30px;
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: #fff;
+    margin-top: -10px;
+    padding-right: 14px;
+    margin-left: -8px;
+    border: 1px solid thistle;
+}
+.movelogo{
+    width: 135px;
+    height: 44px;
+    margin: 30px auto 10px 40px
+}
+.header2{
+    width: 100%;
+    margin-left: -8px;
+}
+.picture1{
+    width: 1583px;
+    height: 615.609px;
+    object-fit: cover;
+    opacity: 0.9;
+}
+.container{
+    position: relative;
+    text-align: center;
+}
+.center{
+    position: absolute;
+    top: -360px;
+    right: 395px;
+    transform: translate(-50%, -50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: maroon;
+    opacity: 0.95;    
+}
+.content{
+    text-align: center;
+    font-size: 28px;
+    font-family: Helvetica;
+    opacity: 0.85;
+}
+.hr{
+    border-top: 5px dotted maroon;
+    width: 500px;
+}
+.subcontent{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 520;
+    color: gray;
+    margin-top: 20px;
+}
+.picture2{
+    width: 1583px;
+    height: 615.609px;
+    object-fit: cover;
+    object-position: right;
+}
+.content2{
+    font-size: 36px;
+    font-family: Helvetica;
+    opacity: 0.85;
+    text-align: center;
+}
+.content2line{
+    border-top: 5px dotted maroon;
+    width: 500px;
+}
+.subcontent2{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 520;
+    color: gray;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: maroon;
+    width: 100%;
+    height: 332px;
+    margin-left: -8px;
+    padding-right: 16px;
+    margin-bottom: -15px;
+    text-align: center;
+}
+.ul1{
+    list-style-type: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 500px;
+       
+}
+.li1{
+    
+}
